@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+    background-image: url(../img/trees.png)
+}
+.container{
+    background-color: #fff;
+    width: 1700px;
+}
+
+.container .judul{
+    text-align: center;
+    font-weight: bold;
+}
+
+.container .table-responsive{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+}
+.container .table{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container .table thead th{
+    font-size: 30px;
+    text-align: center;
+}
+
+.container .table tbody tr td{
+    font-size: 18px;
+}
+
+.container .table .gambar{
+    text-align: center;
+    width: 700px;
+
+}
+
+.container .table .thumbnail{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container .modal .modal-dialog{
+    width: fit-content;
+}
+.container .modal .muncul{
+    width: 1400px;
+    display: block;
+    height: auto;
+}
